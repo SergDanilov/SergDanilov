@@ -6,7 +6,7 @@ Web developer
 
 * 🌍  I'm based in Russia, Samara-city
 * ✉️  You can contact me at [danilovserg1985s@gmail.com](mailto:danilovserg1985s@gmail.com)
-* 🚀  I'm currently working on my app [Task Manager](http://github.com/SergDanilov/php-project-57.git)
+* 🚀  I'm currently working on my app [AI TestHelper](http://github.com/SergDanilov/ai-test_code-url.git)
 * 🧠  I'm learning Laravel framework
 * ⚡  like to play chess
 
